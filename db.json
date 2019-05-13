@@ -1,9 +1,9 @@
 {
   "emailclass": [
-    { "id": 1, "tema": "aaaa", "sadrzajPor": "dadaadadad", "vreme":"2019-07-05 13:00:00", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 1, "ime": "aaa", "prezime":"aaaa", "email":"aaa@gmail.com" } },
-    { "id": 2, "tema": "bbbb", "sadrzajPor": "dffffffff","vreme":"2019-08-07 13:00:00", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 2, "ime": "bbbb", "prezime":"aaaa", "email":"bbb@gmail.com"} },
-    { "id": 3, "tema": "ccc", "sadrzajPor": "blablabla","vreme":"2019-07-13 13:00:00", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 3, "ime": "ccc", "prezime":"aaaa",  "email":"cccc@gmail.com" } },
-    { "id": 4, "tema": "sdsdsdsd", "sadrzajPor": "fffff","vreme":"2019-09-13 13:00:00", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 1, "ime": "aaa", "prezime":"aaaa", "email":"aaa@gmail.com" }}
+    { "id": 1, "tema": "aaaa", "sadrzajPor": "dadaadadad", "vreme":"2019-07-05", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 1, "ime": "aaa", "prezime":"aaaa", "email":"aaa@gmail.com" } },
+    { "id": 2, "tema": "bbbb", "sadrzajPor": "dffffffff","vreme":"2019-08-07", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 2, "ime": "bbbb", "prezime":"aaaa", "email":"bbb@gmail.com"} },
+    { "id": 3, "tema": "ccc", "sadrzajPor": "blablabla","vreme":"2019-07-13", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 3, "ime": "ccc", "prezime":"aaaa",  "email":"cccc@gmail.com" } },
+    { "id": 4, "tema": "sdsdsdsd", "sadrzajPor": "fffff","vreme":"2019-09-13", "folder":{ "id": 2, "ime": "Primljene" }, "contact":{ "id": 1, "ime": "aaa", "prezime":"aaaa", "email":"aaa@gmail.com" }}
   ],
   "accounts": [
     { "id": 1, "username": "cofi", "password": "123", 
