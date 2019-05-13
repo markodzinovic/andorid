@@ -22,8 +22,8 @@
     }],
 
   "folders": [
-    { "id": 1, "name": "Poslate" },
-    { "id": 2, "name": "Primljene" }
+    { "id": 1, "ime": "Poslate" },
+    { "id": 2, "ime": "Primljene" }
   ],
 
   "contacts": [
