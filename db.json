@@ -1,9 +1,9 @@
 {
   "messages": [
-    { "id": 1, "subject": "aaaa", "content": "dadaadadad", "dateTime":"2019-07-05 13:00:00", "folder":{ "id": 2, "name": "Primljene" } },
-    { "id": 2, "subject": "bbbb", "content": "dffffffff","dateTime":"2019-08-07 13:00:00", "folder":{ "id": 2, "name": "Primljene" } },
-    { "id": 3, "subject": "ccc", "content": "blablabla","dateTime":"2019-07-13 13:00:00", "folder":{ "id": 2, "name": "Primljene" }},
-    { "id": 4, "subject": "sdsdsdsd", "content": "fffff","dateTime":"2019-09-13 13:00:00", "folder":{ "id": 2, "name": "Primljene" }}
+    { "id": 1, "tema": "aaaa", "sadrzajPor": "dadaadadad", "vreme":"2019-07-05 13:00:00", "folder":{ "id": 2, "ime": "Primljene" } "contact":{ "id": 1, "ime": "aaa", "prezime":"aaaa", "email":"aaa@gmail.com" } },
+    { "id": 2, "tema": "bbbb", "sadrzajPor": "dffffffff","vreme":"2019-08-07 13:00:00", "folder":{ "id": 2, "ime": "Primljene" } "contact":{ "id": 2, "ime": "bbbb", "prezime":"aaaa", "email":"bbb@gmail.com"} },
+    { "id": 3, "tema": "ccc", "sadrzajPor": "blablabla","vreme":"2019-07-13 13:00:00", "folder":{ "id": 2, "ime": "Primljene" } "contact":{ "id": 3, "ime": "ccc", "prezime":"aaaa",  "email":"cccc@gmail.com" } },
+    { "id": 4, "tema": "sdsdsdsd", "sadrzajPor": "fffff","vreme":"2019-09-13 13:00:00", "folder":{ "id": 2, "ime": "Primljene" } "contact":{ "id": 1, "ime": "aaa", "prezime":"aaaa", "email":"aaa@gmail.com" }}
   ],
   "accounts": [
     { "id": 1, "username": "cofi", "password": "123", 
@@ -27,9 +27,9 @@
   ],
 
   "contacts": [
-    { "id": 1, "firstName": "aaa", "lastName":"aaaa", "display":"display", "email":"aaa@gmail.com" },
-    { "id": 2, "firstName": "bbbb", "lastName":"aaaa", "display":"display", "email":"bbb@gmail.com" },
-    { "id": 3, "firstName": "ccc", "lastName":"aaaa", "display":"display", "email":"cccc@gmail.com" }
+    { "id": 1, "ime": "aaa", "prezime":"aaaa",  "email":"aaa@gmail.com" },
+    { "id": 2, "ime": "bbbb", "prezime":"aaaa", "email":"bbb@gmail.com" },
+    { "id": 3, "ime": "ccc", "prezime":"aaaa",  "email":"cccc@gmail.com" }
   ],
   
   "attachments": [
